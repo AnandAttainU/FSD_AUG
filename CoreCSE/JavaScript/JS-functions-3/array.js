@@ -20,8 +20,12 @@
 
 // console.log(arr[6]);
 
+// let fun = (a,b) => {
+//     return b-a;
+// }
 
-a = [1,5,6,2,4];
-console.log(a);
-a.sort();
-console.log(a);
+a = [2,6,7,9,8,88,89];
+
+b = a.splice(5,2);
+console.log(b);
+

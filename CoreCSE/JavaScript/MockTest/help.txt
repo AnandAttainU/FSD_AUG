@@ -1,0 +1,15 @@
+1. How to attempt an test paper 
+    -> sign up and land up on the test main screen
+2. How to understand the problem 
+    -> read the problem carefully and understand the test cases given
+3. How to write your solutions 
+    -> // start writing the code after line "// write your code here"
+    -> 
+4. How to run the test cases
+    -> two options 
+        a. click on run code to run the test cases given
+        b. click on custom test case to wrtie your own test case
+5. How to submit your solutions
+    -> click on the submit code and you are done
+6. Check if program is correct?
+    -> after submission you will see the results of your code.
