@@ -13,7 +13,7 @@ let obj = {
 // obj.c()
 // console.log(obj['b'], obj['c']());
 
-arr = [1,2,7,11];
+arr = ['1',2,7,11];
 for(n of arr){
     
 }

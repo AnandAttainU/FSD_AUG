@@ -22,6 +22,16 @@ obj= {
 // console.log(obj[temp]);
 // console.log(obj 'a');
 
-for(item in obj){
-    console.log(obj[item]);
+// for(item in obj){
+//     console.log(obj[item]);
+// }
+
+
+obj1 = {
+    a: 1
 }
+
+obj2 = {
+    b: 1
+}
+console.log(obj1.a == obj2.b)
