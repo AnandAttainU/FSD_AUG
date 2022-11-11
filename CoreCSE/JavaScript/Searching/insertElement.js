@@ -18,6 +18,7 @@ function binarySearch(arr, target){
     return -1;
 }
 
-arr = [1,5,8,12,15];
-target = 8;
+arr = [1,3,5,6]
+target = 2;
+
 console.log(binarySearch(arr, target));

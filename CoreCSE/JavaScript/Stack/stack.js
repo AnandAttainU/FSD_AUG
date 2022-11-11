@@ -24,3 +24,11 @@ console.log(st.peek()); // 2, st {arr = [2]}
 console.log(st.isEmpty());
 console.log(st.pop());
 console.log(st.isEmpty());
+st.reverse();
+
+
+
+if(arr){
+
+}
+
